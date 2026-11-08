@@ -1,0 +1,363 @@
+{
+  "timestamp": "2026-11-08 18:41:43",
+  "total_communes": 92,
+  "status": "FRESH",
+  "sheets": {
+    "0.M1": {
+      "code": "0.M1",
+      "name": "Thống kê trẻ em MN theo độ tuổi",
+      "group": "Mầm non",
+      "excel_file": "TONG_HOP_THU_0.M1_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng trẻ MN (K5)": "110,542",
+        "Trẻ 5 tuổi (I5)": "23,774",
+        "TL huy động 5t": "100.79%"
+      }
+    },
+    "0.M2": {
+      "code": "0.M2",
+      "name": "Tiêu chuẩn, ĐK PCGD MN",
+      "group": "Mầm non",
+      "excel_file": "TONG_HOP_THU_0.M2_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Lớp MG 3-4t": "1,845",
+        "Lớp MG 5t": "1,050"
+      }
+    },
+    "0.M3": {
+      "code": "0.M3",
+      "name": "Đội ngũ CBQL, GV, NV MN",
+      "group": "Mầm non",
+      "excel_file": "TONG_HOP_THU_0.M3_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng CB+GV+NV": "11,784",
+        "TL GV/lớp": "2.93"
+      }
+    },
+    "0.M4": {
+      "code": "0.M4",
+      "name": "Cơ sở vật chất MN",
+      "group": "Mầm non",
+      "excel_file": "TONG_HOP_THU_0.M4_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Số trường/cơ sở": "237",
+        "TL phòng/lớp": "1.00"
+      }
+    },
+    "0.M5": {
+      "code": "0.M5",
+      "name": "Tình hình tài chính MN",
+      "group": "Mầm non",
+      "excel_file": "TONG_HOP_THU_0.M5_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng chi NS": "12,304,024,943.24 Tr.đ",
+        "TL chi CM": "2.13%"
+      }
+    },
+    "0.M6": {
+      "code": "0.M6",
+      "name": "Trẻ khuyết tật MN",
+      "group": "Mầm non",
+      "excel_file": "TONG_HOP_THU_0.M6_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng trẻ KT": "296",
+        "Được can thiệp": "226"
+      }
+    },
+    "0.M7": {
+      "code": "0.M7",
+      "name": "Sổ theo dõi PCGD MN",
+      "group": "Mầm non",
+      "excel_file": "TONG_HOP_THU_0.M7_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng HS trong sổ": "107,556",
+        "Số trẻ nữ": "49,129 (45.68%)"
+      }
+    },
+    "1.M1": {
+      "code": "1.M1",
+      "name": "Trẻ 6-14t PCGD & GD bắt buộc",
+      "group": "Tiểu học",
+      "excel_file": "TONG_HOP_THU_1.M1_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Trẻ 6 tuổi (F8)": "27,307",
+        "Tổng 6-10t (K8)": "140,711",
+        "Vào L1": "100.00%"
+      }
+    },
+    "1.M2": {
+      "code": "1.M2",
+      "name": "Đội ngũ cán bộ, GV Tiểu học",
+      "group": "Tiểu học",
+      "excel_file": "TONG_HOP_THU_1.M2_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng GV TH": "8,028",
+        "TL GV/lớp": "1.62"
+      }
+    },
+    "1.M3": {
+      "code": "1.M3",
+      "name": "CSVC cấp Tiểu học",
+      "group": "Tiểu học",
+      "excel_file": "TONG_HOP_THU_1.M3_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Điểm trường": "360",
+        "Tổng lớp": "4,984",
+        "TL Ph/lớp": "101.91%"
+      }
+    },
+    "1.M4": {
+      "code": "1.M4",
+      "name": "Kết quả PCGD Tiểu học",
+      "group": "Tiểu học",
+      "excel_file": "TONG_HOP_THU_1.M4_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Số trường TH": "160",
+        "6t vào L1": "100.00%",
+        "Chuẩn toàn tỉnh": "Mức độ 3 (87/92 xã đạt MĐ3)"
+      }
+    },
+    "1.M5": {
+      "code": "1.M5",
+      "name": "Trẻ khuyết tật Tiểu học",
+      "group": "Tiểu học",
+      "excel_file": "TONG_HOP_THU_1.M5_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng trẻ KT TH": "3,797",
+        "Tiếp cận GD": "3,304 (87.02%)"
+      }
+    },
+    "1.M6": {
+      "code": "1.M6",
+      "name": "HS học xã/tỉnh ngoài (Tiểu học)",
+      "group": "Tiểu học",
+      "excel_file": "TONG_HOP_THU_1.M6_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng HS học ngoài": "10,390",
+        "Trong tỉnh": "9,181",
+        "Ngoài tỉnh": "1,209"
+      }
+    },
+    "1.M7": {
+      "code": "1.M7",
+      "name": "HS ngoài học tại xã (Tiểu học)",
+      "group": "Tiểu học",
+      "excel_file": "TONG_HOP_THU_1.M7_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "HS nơi khác đến": "9,395",
+        "Trong tỉnh": "8,817",
+        "Ngoài tỉnh": "578"
+      }
+    },
+    "2.M1": {
+      "code": "2.M1",
+      "name": "Thống kê TTN PCGD THCS",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M1_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "TTN 15t": "27,620",
+        "TN THCS": "97.56%",
+        "Học tiếp": "98.63%"
+      }
+    },
+    "2.M2": {
+      "code": "2.M2",
+      "name": "Tổng hợp huy động PCGD THCS",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M2_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Trẻ 6t vào L1": "27,046",
+        "15-18t có bằng THCS": "98,796 (97.59%)"
+      }
+    },
+    "2.M3": {
+      "code": "2.M3",
+      "name": "Thống kê PCGD THCS",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M3_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "TTN 11-18t": "230,682",
+        "TN THCS 15-18t": "98,765 (97.56%)"
+      }
+    },
+    "2.M4": {
+      "code": "2.M4",
+      "name": "CSVC cấp THCS",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M4_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Trường THCS": "158",
+        "Lớp học": "3,332",
+        "TL Ph/lớp": "97.66%"
+      }
+    },
+    "2.M5": {
+      "code": "2.M5",
+      "name": "Đội ngũ giáo viên THCS",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M5_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng GV THCS": "6,379",
+        "TL GV/lớp": "1.91",
+        "Chuẩn ĐH": "99.69%"
+      }
+    },
+    "2.M6": {
+      "code": "2.M6",
+      "name": "Trẻ khuyết tật THCS",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M6_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Tổng đối tượng KT": "3,601",
+        "Tiếp cận GD": "2,869 (79.67%)"
+      }
+    },
+    "2.M7": {
+      "code": "2.M7",
+      "name": "HS học ngoài địa bàn (THCS)",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M7_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "HS THCS học ngoài": "4,067",
+        "Trong tỉnh": "3,726",
+        "Ngoài tỉnh": "341"
+      }
+    },
+    "2.M8": {
+      "code": "2.M8",
+      "name": "HS ngoài học tại xã (THCS)",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M8_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "HS THCS đến học": "10,965",
+        "Trong tỉnh": "10,539",
+        "Ngoài tỉnh": "426"
+      }
+    },
+    "2.M9": {
+      "code": "2.M9",
+      "name": "Huy động GD Trung học",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M9_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Đối tượng 15-21t": "166,166",
+        "TN THCS 15-18t": "98,111 (97.56%)"
+      }
+    },
+    "2.M10": {
+      "code": "2.M10",
+      "name": "Hiệu quả GD Trung học",
+      "group": "THCS",
+      "excel_file": "TONG_HOP_THU_2.M10_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Đối tượng 18-21t": "88,368",
+        "Có bằng THPT/Nghề": "75,875 (87.73%)"
+      }
+    },
+    "3.M1": {
+      "code": "3.M1",
+      "name": "Chuẩn XMC Mức 1",
+      "group": "Xóa mù chữ",
+      "excel_file": "TONG_HOP_THU_3.M1_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Dân số (15-25t)": "244,515",
+        "Biết chữ M1": "244,352 (99.93%)",
+        "Biết chữ M2": "244,230 (99.88%)"
+      }
+    },
+    "3.M2": {
+      "code": "3.M2",
+      "name": "Chuẩn XMC Mức 2",
+      "group": "Xóa mù chữ",
+      "excel_file": "TONG_HOP_THU_3.M2_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Dân số (15-35t)": "479,435",
+        "Biết chữ M1": "478,664 (99.84%)",
+        "Biết chữ M2": "477,517 (99.60%)"
+      }
+    },
+    "3.M3": {
+      "code": "3.M3",
+      "name": "Chuẩn XMC Chung toàn xã",
+      "group": "Xóa mù chữ",
+      "excel_file": "TONG_HOP_THU_3.M3_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Dân số (15-60t)": "1,097,844",
+        "Biết chữ M1": "1,090,373 (99.32%)",
+        "Biết chữ M2": "1,080,608 (98.43%)"
+      }
+    },
+    "3.M4": {
+      "code": "3.M4",
+      "name": "Hiện trạng mù chữ M1 (15-25t)",
+      "group": "Xóa mù chữ",
+      "excel_file": "TONG_HOP_THU_3.M4_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Dân số": "244,515",
+        "Mù chữ": "163 (0.07%)",
+        "Nữ mù chữ": "99",
+        "DT mù chữ": "155"
+      }
+    },
+    "3.M5": {
+      "code": "3.M5",
+      "name": "Hiện trạng mù chữ M1 (15-35t)",
+      "group": "Xóa mù chữ",
+      "excel_file": "TONG_HOP_THU_3.M5_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Dân số": "479,435",
+        "Mù chữ": "771 (0.16%)",
+        "Nữ mù chữ": "424",
+        "DT mù chữ": "727"
+      }
+    },
+    "3.M6": {
+      "code": "3.M6",
+      "name": "Hiện trạng mù chữ M1 (15-60t)",
+      "group": "Xóa mù chữ",
+      "excel_file": "TONG_HOP_THU_3.M6_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Dân số": "1,097,844",
+        "Mù chữ": "7,471 (0.68%)",
+        "Nữ mù chữ": "3,752",
+        "DT mù chữ": "7,026"
+      }
+    },
+    "3.M7": {
+      "code": "3.M7",
+      "name": "Hiện trạng mù chữ M2 (15-25t)",
+      "group": "Xóa mù chữ",
+      "excel_file": "TONG_HOP_THU_3.M7_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Dân số": "244,515",
+        "Mù chữ": "285 (0.12%)",
+        "Nữ mù chữ": "162",
+        "DT mù chữ": "262"
+      }
+    },
+    "3.M8": {
+      "code": "3.M8",
+      "name": "Hiện trạng mù chữ M2 (15-35t)",
+      "group": "Xóa mù chữ",
+      "excel_file": "TONG_HOP_THU_3.M8_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Dân số": "479,435",
+        "Mù chữ": "1,918 (0.40%)",
+        "Nữ mù chữ": "1,062",
+        "DT mù chữ": "1,767"
+      }
+    },
+    "3.M9": {
+      "code": "3.M9",
+      "name": "Hiện trạng mù chữ M2 (15-60t)",
+      "group": "Xóa mù chữ",
+      "excel_file": "TONG_HOP_THU_3.M9_PCGD_2026.xlsx",
+      "summary_metrics": {
+        "Dân số": "1,097,844",
+        "Mù chữ": "17,236 (1.57%)",
+        "Nữ mù chữ": "8,192",
+        "DT mù chữ": "15,840"
+      }
+    }
+  }
+}
