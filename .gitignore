@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Temporary and local files
+*_capnhat.xlsx
+*.tmp
+.DS_Store
+Thumbs.db
+
